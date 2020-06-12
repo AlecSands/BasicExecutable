@@ -1,0 +1,11 @@
+C:\Users\Alec and Pam\Documents\Alec\Apps\BasicExecutable\bin\Debug\netcoreapp2.1\BasicExecutable.deps.json
+C:\Users\Alec and Pam\Documents\Alec\Apps\BasicExecutable\bin\Debug\netcoreapp2.1\BasicExecutable.runtimeconfig.json
+C:\Users\Alec and Pam\Documents\Alec\Apps\BasicExecutable\bin\Debug\netcoreapp2.1\BasicExecutable.runtimeconfig.dev.json
+C:\Users\Alec and Pam\Documents\Alec\Apps\BasicExecutable\bin\Debug\netcoreapp2.1\BasicExecutable.dll
+C:\Users\Alec and Pam\Documents\Alec\Apps\BasicExecutable\bin\Debug\netcoreapp2.1\BasicExecutable.pdb
+C:\Users\Alec and Pam\Documents\Alec\Apps\BasicExecutable\obj\Debug\netcoreapp2.1\BasicExecutable.csprojAssemblyReference.cache
+C:\Users\Alec and Pam\Documents\Alec\Apps\BasicExecutable\obj\Debug\netcoreapp2.1\BasicExecutable.csproj.CoreCompileInputs.cache
+C:\Users\Alec and Pam\Documents\Alec\Apps\BasicExecutable\obj\Debug\netcoreapp2.1\BasicExecutable.AssemblyInfoInputs.cache
+C:\Users\Alec and Pam\Documents\Alec\Apps\BasicExecutable\obj\Debug\netcoreapp2.1\BasicExecutable.AssemblyInfo.cs
+C:\Users\Alec and Pam\Documents\Alec\Apps\BasicExecutable\obj\Debug\netcoreapp2.1\BasicExecutable.dll
+C:\Users\Alec and Pam\Documents\Alec\Apps\BasicExecutable\obj\Debug\netcoreapp2.1\BasicExecutable.pdb
